@@ -1,4 +1,6 @@
-# AngularProject
+# AhashAngularCRUDProject
+
+This repository is a hands-on learning project for practicing coding skills with Angular and TypeScript. The project is a product listing platform for selling items, implemented with CRUD (Create, Read, Update, Delete) operations. The project uses the latest front-end technologies, including Angular, TypeScript, Angular Material UI components, and a JSON-server for data management. The Angular Material UI components provide a modern and clean user interface, while the JSON-server makes it easy to manage and maintain the product listings. This project helps me to expand my coding skills and I have learned new skills and experimented with different coding techniques, and improve your overall development skills and understanding.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
